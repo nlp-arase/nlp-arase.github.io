@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
+title: Publication
+permalink: /publication/
 tagline: "Humanity is overrated."
 category: "science"
 ---
