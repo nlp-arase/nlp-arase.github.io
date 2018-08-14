@@ -1,7 +1,14 @@
 ---
-layout: archive
+layout: page
 title: Member
 permalink: /member/
-category: "design"
-tagline: "it's all about perception."
+category: "member"
+tagline: "荒瀬班の愉快な仲間たち"
 ---
+<ul>
+{{ for person in site.data.member }}
+  <li>
+    {% person.name %} | {% person.grade %} <br>
+    {% person.introduction %}
+  </li>
+</ul>
