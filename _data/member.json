@@ -5,7 +5,22 @@
     "introduction" : "hogehoge"
   },
   {
+    "name" : "梶原 智之",
+    "grade" : "Collaborator",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "Chu Chenhui",
+    "grade" : "Collaborator",
+    "introduction" : "hogehoge"
+  },
+  {
     "name" : "瓦 祐希",
+    "grade" : "D1",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "早川 威士",
     "grade" : "D1",
     "introduction" : "hogehoge"
   },
@@ -17,6 +32,46 @@
   {
     "name" : "高山 隼矢",
     "grade" : "M2",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "竹林 佑斗",
+    "grade" : "M2",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "芦原 和樹",
+    "grade" : "M1",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "田中 昂志",
+    "grade" : "M1",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "野本 英梨子",
+    "grade" : "M1",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "大橋 空",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "西原 大貴",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "三浦 びわ",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "山内 崇史",
+    "grade" : "B3",
     "introduction" : "hogehoge"
   },
 ]
