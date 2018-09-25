@@ -664,8 +664,19 @@ pre {
 
 // member page style
 .member-content{
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   padding: 8px 10px;
   border: #e6e6e6 1px solid;
   line-height: 1.2;
+}
+
+.member-role{
+  width: 70%;
+  margin-bottom: 5px;
+  border-bottom: 2px solid #000000;
+}
+
+.member-role a{
+  font-size: 16pt;
+  font-style: italic;
 }
