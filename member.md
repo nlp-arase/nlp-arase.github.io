@@ -6,11 +6,10 @@ category: "member"
 tagline: "荒瀬班の愉快な仲間たち"
 ---
 
-<ul>
+
 {% for person in site.data.member %}
-  <li>
+  <li class="member-content">
     {{ person.name }} | {{ person.grade }} <br>
     {{ person.introduction }}
   </li>
 {% endfor %}
-</ul>
