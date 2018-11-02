@@ -680,3 +680,42 @@ pre {
   font-size: 16pt;
   font-style: italic;
 }
+
+// publication page style
+.publication-genre{
+  width: 70%;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #000000;
+}
+
+.publication-genre span{
+  font-size: 16pt;
+  font-style: italic;
+}
+
+.publication-content{
+  margin-bottom: 0px;
+  padding: 5px 5px;
+  #border: #e6e6e6 1px solid;
+  font-family: "PT Sans", Helvetica,;
+  line-height: 1.2;
+  color: black;
+}
+
+.publication-content > .authors{
+  #font-size: 10pt;
+  font-weight: thin;
+  color: gray;
+}
+
+.publication-content > .title{
+  #font-size: 13pt;
+  font-weight: normal;
+  color: black;
+}
+
+.publication-content > .info{
+  #font-size: 10pt;
+  font-weight: thin;
+  color: gray;
+}
