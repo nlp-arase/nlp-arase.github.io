@@ -1,0 +1,40 @@
+- authors: Kazuki Ashihara, Tomoyuki Kajiwara, Yuki Arase and Satoru Uchida
+  title: Contextualized Word Representations for Multi-Sense Embedding
+  info: In proceedings of Pacific Asia Conference on Language, Information and Computation (PACLIC2018), December 2018
+  lang: en
+  
+- authors: Yuki Kawara, Chenhui Chu and Yuki Arase
+  title: Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation
+  info: In proceedings of ACL 2018, Student Research Workshop， pp.21-27， July 2018
+  lang: en
+  
+- authors: Satoru Uchida, Shohei Takada and Yuki Arase
+  title: CEFR-based Lexical Simplification Dataset
+  info: In proceedings of Language Resources and Evaluation Conference (LREC 2018), May 2018
+  lang: en
+  
+- authors: "Yuki Arase and Jun'ichi Tsujii"
+  title: "SPADE: Evaluation Dataset for Monolingual Phrase Alignment"
+  info: In proceedings of Language Resources and Evaluation Conference (LREC 2018), May 2018
+  lang: en
+
+- authors: Junya Takayama, Eriko Nomoto and Yuki Arase
+  title: Dialogue Breakdown Detection Considering Annotation Biases
+  info: Dialog System Technology Challenges 6 (DSTC6), December 2017
+  lang: en
+
+- authors: "Yuki Arase, Jun'ichi Tsujii"
+  title: Monolingual Phrase Alignment on Parse Forests
+  info: In proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)， pp.1-11, September 2017
+  lang: en
+
+- authors: Kozo Chikai and Yuki Arase
+  title: Analysis of Similarity Measures between Short Text for the NTCIR-12 Short Text Conversation Task
+  info: In proceedings of NTCIR Conference on Evaluation of Information Access Technologies (NTCIR-12), June 2016
+  lang: en
+  
+- authors: Mitsuo Yoshida, Yuki Arase, Takaaki Tsunoda and Mikio Yamamoto
+  title: Wikipedia Page View Reflects Web Search Trend
+  info: ACM Web Science conference (WebSci15)， June 2015
+  lang: en
+  

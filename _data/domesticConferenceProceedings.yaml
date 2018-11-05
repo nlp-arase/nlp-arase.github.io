@@ -1,0 +1,79 @@
+- authors: 芦原 和樹, 梶原 智之, 荒瀬 由紀, 内田 諭
+  title: 依存構造に基づく単語から語義の分散表現への細分化
+  info: 情報処理学会第237回自然言語処理研究会, September 2018
+  lang: ja
+  
+- authors: 高田 祥平, 荒瀬 由紀, 内田 諭
+  title: 単語分散表現による語義の近似を用いた語彙平易化手法
+  info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
+  lang: ja
+
+- authors: 竹林佑斗, Chenhui Chu, 荒瀬由紀, 永田 昌明
+  title: ニューラル機械翻訳における単語予測の重要性について
+  info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
+  lang: ja
+
+- authors: 田中 貴秋, 永田 昌明, 荒瀬 由紀, 鬼塚 真
+  title: 意味グラフに基づくテキスト類似性尺度の提案
+  info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
+  lang: ja
+
+- authors: 田中 昂志, 高山 隼矢, 荒瀬 由紀
+  title: 雑談対話システムのための未知語に頑健な興味推定手法
+  info: 情報処理学会第235回自然言語処理研究会, pp.1-5, May 2018
+  lang: ja
+  
+- authors: 芦原 和樹, 高田 祥平, 荒瀬 由紀, 内田 諭
+  title: 英語教育支援のための複単語表現平易化手法の検討
+  info: 言語処理学会第２４回年次大会 (NLP 2018), pp.472-475, March 2018
+  lang: ja
+
+- authors: 瓦 祐希, Chenhui Chu, 荒瀬 由紀
+  title: Recursive Neural Networkを用いた事前並び替えによる英日機械翻訳
+  info: 言語処理学会第２４回年次大会 (NLP 2018), pp.33-36, March 2018
+  lang: ja
+  
+- authors: 高田 祥平, 荒瀬 由紀, 内田 諭
+  title: "英語教育支援のためのLexical Simplification: コロケーションスコアを用いたアプローチ"
+  info: 言語処理学会第23回年次大会 (NLP2017), pp.939-942, March 2017
+  lang: ja
+
+- authors: 五十川 真生, 近井 厚三, 荒瀬 由紀
+  title: ユーザとの対話による発話・応答データ収集機構の検討
+  info: 言語処理学会第23回年次大会 (NLP2017), pp.779-782, March 2017
+  lang: ja
+
+- authors: Cosmas Krisna Adiputra, 荒瀬 由紀
+  title: Performance of Japanese-to-Indonesian Machine Translation on Different Models
+  info: 言語処理学会第23回年次大会 (NLP2017), pp.757-760, March 2017
+  lang: ja
+
+- authors: 竹林 佑斗, 荒瀬 由紀
+  title: 同時通訳のための述語動詞予測手法の検討
+  info: 言語処理学会第23回年次大会 (NLP2017), pp.749-752, March 2017
+  lang: ja
+
+- authors: 高田 祥平, 水嶋 海都, 荒瀬 由紀
+  title: Text Simplificationのための文難易度の2値分類手法の検討
+  info: 言語処理学会第22回年次大会 (NLP2016), pp.374-377, March 2016
+  lang: ja
+
+- authors: 水嶋 海都, 荒瀬 由紀, 内田 諭 
+  title: CEFR準拠教科書における語彙・構文の特徴分析とレベル自動分類
+  info: 言語処理学会第22回年次大会 (NLP2016), pp.789-792, March 2016
+  lang: ja
+
+- authors: 水嶋 海都, 荒瀬 由紀
+  title: 高度な英文訂正への統計的機械翻訳技術の適用
+  info: 言語処理学会第21回年次大会 (NLP2015), pp.413-416, March 2015
+  lang: ja
+
+- authors: 欅 惇志, 荒瀬 由紀, 山本 風人, 辻井 潤一
+  title: 語義グラフを用いた整数線形計画法による語義曖昧性解消手法の提案
+  info: Webとデータベースに関するフォーラム (WebDB Forum 2014), November 2014
+  lang: ja
+  
+- authors: 山本 風人, 井之上 直也, 乾 健太郎, 荒瀬 由紀, 辻井 潤一
+  title: A*探索に基づく仮説推論の効率化
+  info: 情報処理学会第217回自然言語処理研究会, No.10,  pp.1–9, June 2014
+  lang: ja
