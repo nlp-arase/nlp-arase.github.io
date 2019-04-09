@@ -1,62 +1,63 @@
 [
   {
     "name" : "瓦 祐希",
-    "grade" : "D1",
+    "grade" : "D2",
     "introduction" : "hogehoge"
   },
   {
     "name" : "早川 威士",
-    "grade" : "D1",
-    "introduction" : "hogehoge"
-  },
-  {
-    "name" : "五十川 真生",
-    "grade" : "M2",
+    "grade" : "D2",
     "introduction" : "hogehoge"
   },
   {
     "name" : "高山 隼矢",
-    "grade" : "M2",
-    "introduction" : "hogehoge"
-  },
-  {
-    "name" : "竹林 佑斗",
-    "grade" : "M2",
+    "grade" : "D1",
     "introduction" : "hogehoge"
   },
   {
     "name" : "芦原 和樹",
-    "grade" : "M1",
+    "grade" : "M2",
     "introduction" : "hogehoge"
   },
   {
     "name" : "田中 昂志",
-    "grade" : "M1",
+    "grade" : "M2",
     "introduction" : "<a href='https://tanaka504.github.io/'>Homepage</a>/<a href='https://twitter.com/KiSaSaGe_OU'>Twitter</a>/<a href='https://www.facebook.com/profile.php?id=100014913543630'>facebook</a>"
   },
   {
     "name" : "野本 英梨子",
-    "grade" : "M1",
+    "grade" : "M2",
     "introduction" : "hogehoge"
   },
   {
     "name" : "大橋 空",
-    "grade" : "B4",
+    "grade" : "M1",
     "introduction" : "hogehoge"
   },
   {
     "name" : "西原 大貴",
-    "grade" : "B4",
-    "introduction" : "hogehoge"
-  },
-  {
-    "name" : "三浦 びわ",
-    "grade" : "B4",
+    "grade" : "M1",
     "introduction" : "hogehoge"
   },
   {
     "name" : "山内 崇史",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  }, 
+  {
+    "name" : "TBD",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "TBD",
+    "grade" : "B4",
+    "introduction" : "hogehoge"
+  },
+  {
+    "name" : "TBD",
     "grade" : "B3",
     "introduction" : "hogehoge"
   },
+
 ]
