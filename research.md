@@ -12,7 +12,7 @@ category: "research"
             <strong>{{ UpperTheme.UpperTheme }}</strong>
         </div>
     {% for LowerTheme in UpperTheme.LowerTheme %}
-        <p>  <div class="manual-content">
+        <div class="manual-content">
             <span class='manual'>{{ LowerTheme.theme }}</span><BR>
             <pre>---
             {{ LowerTheme.contents }}
