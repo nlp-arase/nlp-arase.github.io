@@ -11,9 +11,9 @@ permalink: /research/
             <strong>{{ UT.UpperTheme }}</strong>
         </div>
     {% for LT in UT.LowerTheme %}
+        <span class="manual">{{ LT.theme }}</span><BR>
         <div class="manual-content">
-            <span class="manual">{{ LT.theme }}</span><BR>
-            <pre>{{ LowerTheme.contents }}</pre>
+            <pre>{{ LT.contents }}</pre>
         </div>
     {% endfor %}
     </div>
