@@ -2,10 +2,10 @@
 layout: page
 title : Research
 permalink: /research/
-category: "research"
-tagline: "研究内容"
 ---
 
+<h3 class="member-role"><span>研究内容</span></h3>
+<div class="member-content">
 {% for UT in site.data.research %}
     <span>{{ UT.UpperTheme }}</span>
     {% for LT in UT.LowerTheme %}
@@ -13,3 +13,4 @@ tagline: "研究内容"
         <div class="research-content">{{ LT.contents }}</div>
     {% endfor %}
 {% endfor %}
+</div>
