@@ -4,14 +4,14 @@
         "LowerTheme" : [
             {
             "theme" : "翻訳",
-            "contents" : "荒瀬先生，Chu先生，瓦さん，早川さん，Vipul がやってます．",
+            "contents" : "瓦さんに翻訳について書いてもらう",
             "img" : [
                 "mt.jpeg",
             ],
             },
             {
             "theme" : "対話",
-            "contents" : "荒瀬先生，高山さんがやってます．",
+            "contents" : "高山さんに対話について書いてもらう",
             "img" : [
                 "research_tanaka.jpeg",
                 "research_takayama.jpeg",
@@ -19,7 +19,7 @@
             },
             {
             "theme" : "言い換え生成",
-            "contents" : "荒瀬先生，梶原さん，西原，中町，吉仲がやってます．",
+            "contents" : "梶原さんに言い換え生成について書いてもらう",
             "img" : [
                 "ppg.jpeg",
             ],
@@ -31,14 +31,14 @@
         "LowerTheme" : [
             {
             "theme" : "分散表現",
-            "contents" : "荒瀬先生，山内がやってます．",
+            "contents" : "荒瀬先生に分散表現について書いてもらう",
             "img" : [
                 "emb.jpeg",
             ],
             },
             {
             "theme" : "言い換え認識",
-            "contents" : "荒瀬先生，芦原，吉仲がやってます．",
+            "contents" : "荒瀬先生に言い換え認識について書いてもらう",
             "img" : [
                 "ppr.jpeg"
             ],
@@ -50,14 +50,14 @@
         "LowerTheme" : [
             {
             "theme" : "医療",
-            "contents" : "荒瀬先生，高山さん，大橋がやってます．",
+            "contents" : "大橋に医療NLPについて書いてもらう",
             "img" : [
                 "clin.jpeg"
             ],
             },
             {
             "theme" : "画像生成",
-            "contents" : "荒瀬先生，Chu先生，野本さんがやってます．",
+            "contents" : "野本さんに画像生成について書いてもらう",
             "img" : [
                 "tti.jpeg"
             ],
