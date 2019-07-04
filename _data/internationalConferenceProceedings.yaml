@@ -34,7 +34,7 @@
   lang: en
 
 - authors: Hiroki Shimanaka, <u>Tomoyuki Kajiwara</u>, Mamoru Komachi
-  title: RUSE: Regressor Using Sentence Embeddings for Automatic Machine Translation Evaluation
+  title: "RUSE: Regressor Using Sentence Embeddings for Automatic Machine Translation Evaluation"
   info: In Proceedings of the Third Conference on Machine Translation (WMT 18), pp.751-758, November 2018, 1st place
   lang: en
 
