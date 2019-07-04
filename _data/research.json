@@ -5,14 +5,23 @@
             {
             "theme" : "翻訳",
             "contents" : "荒瀬先生，Chu先生，瓦さん，早川さん，Vipul がやってます．",
+            "img" : [
+                "mt.jpeg",
+            ],
             },
             {
             "theme" : "対話",
             "contents" : "荒瀬先生，高山さんがやってます．",
+            "img" : [
+                "research_tanaka.jpeg",
+            ],
             },
             {
             "theme" : "言い換え生成",
             "contents" : "荒瀬先生，梶原さん，西原，中町，吉仲がやってます．",
+            "img" : [
+                "ppg.jpeg",
+            ],
             },
         ]
     },
@@ -22,10 +31,16 @@
             {
             "theme" : "分散表現",
             "contents" : "荒瀬先生，山内がやってます．",
+            "img" : [
+                "emb.jpeg",
+            ],
             },
             {
             "theme" : "言い換え認識",
             "contents" : "荒瀬先生，芦原，吉仲がやってます．",
+            "img" : [
+                "ppr.jpeg"
+            ],
             },
         ]
     },
@@ -35,10 +50,16 @@
             {
             "theme" : "医療",
             "contents" : "荒瀬先生，高山さん，大橋がやってます．",
+            "img" : [
+                "clin.jpeg"
+            ],
             },
             {
             "theme" : "画像生成",
             "contents" : "荒瀬先生，Chu先生，野本さんがやってます．",
+            "img" : [
+                "tti.jpeg"
+            ],
             },
         ]
     },

@@ -721,13 +721,6 @@ pre {
 }
 
 // research page style
-.research-title{
-  text-transform: uppercase;
-  font-size: 16px;
-  letter-spacing: 2px;
-  text-indent: 2px;
-}
-
 .research-area{
   font-size: 16px;
   letter-spacing: 2px;
@@ -736,12 +729,28 @@ pre {
 
 .research-theme{
   font-size: 16px;
+  font-family: Impact;
+  letter-spacing: 2px;
+  text-indent: 2px;
+  margin-bottom: -5px;
+}
+
+.research-content{
+  font-size: 12px;
   letter-spacing: 2px;
   text-indent: 2px;
 }
 
-.research-content{
-  font-size: 16px;
-  letter-spacing: 2px;
-  text-indent: 2px;
+.research-img{
+  @media (min-width: $on-laptop+1) {
+    float:left;
+  }
+  display:inline-block;
+  width: 400px;
+  height: 300px;
+  border-radius: 5%;
+  -webkit-background-size: cover !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  margin-right: 2px;
 }
