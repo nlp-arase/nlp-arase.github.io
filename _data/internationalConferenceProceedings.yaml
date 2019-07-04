@@ -1,3 +1,28 @@
+- authors: Tomoyuki Kajiwara
+  title: Negative Lexically Constrained Decoding for Paraphrase Generation
+  info: In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), July 2019 (to appear)
+  lang: en
+
+- authors: Junya Takayama, Yuki Arase
+  title: Relevant and Informative Response Generationusing Pointwise Mutual Information
+  info: In Proceedings of the NLP for Conversational AI workshop (held in ACL2019), August 2019 (to appear)
+  lang: en
+  
+- authors: Kozo Chikai, Junya Takayama, Yuki Arase
+  title: Responsive and Self-Expressive Dialogue Generation
+  info: In Proceedings of the NLP for Conversational AI workshop, August 2019. (to appear)
+  lang: en
+
+- authors: Koji Tanaka, Junya Takayama, Yuki Arase
+  title: Dialogue-Act Prediction of Future Response based on Conversation History
+  info: In Proceedings of ACL 2019, Student Research Workshop, July 2019. (to appear)
+  lang: en
+  
+- authors: Daiki Nishihara, Tomoyuki Kajiwara, Yuki Arase
+  title: Controllable Text Simplification with Lexical Constraint
+  info: In Proceedings of ACL 2019, Student Research Workshop, July 2019. (to appear)
+  lang: en
+
 - authors: Kazuki Ashihara, Tomoyuki Kajiwara, Yuki Arase and Satoru Uchida
   title: Contextualized Word Representations for Multi-Sense Embedding
   info: In proceedings of Pacific Asia Conference on Language, Information and Computation (PACLIC2018), December 2018
