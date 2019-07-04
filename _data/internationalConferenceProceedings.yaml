@@ -40,7 +40,12 @@
   
 - authors: Yuki Kawara, Chenhui Chu, Yuki Arase
   title: Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation
-  info: In proceedings of ACL 2018, Student Research Workshop， pp.21-27， July 2018
+  info: In proceedings of ACL 2018, Student Research Workshop, pp.21-27， July 2018
+  lang: en
+  
+- authors: Hiroki Shimanaka, Tomoyuki Kajiwara, Mamoru Komachi
+  title: Metric for Automatic Machine Translation Evaluation based on Universal Sentence Representations
+  info: In Proceedings of the NAACL 2018, Student Research Workshop, pp.106-111, June 2018
   lang: en
   
 - authors: Satoru Uchida, Shohei Takada, Yuki Arase
