@@ -1,3 +1,48 @@
+- authors: 西原 大貴, 梶原 智之, 荒瀬 由紀
+  title: 単語の難易度を考慮したテキストの難易度制御
+  info: 情報処理学会第240回自然言語処理研究会, June 2019
+  lang: ja
+  
+- authors: 田中 昂志, 高山 隼矢, 荒瀬 由紀
+  title: 対話システムにおける履歴を考慮した応答の対話行為推定
+  info: 第33回人工知能学会全国大会 (JSAI2019), June 2019
+  lang: ja
+  
+- authors: 高山 隼矢, 荒瀬 由紀
+  title: 自己相互情報量を用いた特徴語彙予測に基づく雑談応答生成
+  info: 言語処理学会第25回年次大会, pp.643-646, March 2019
+  lang: ja
+
+- authors: 芦原 和樹, 荒瀬 由紀, 内田 諭
+  title: CEFRレベルを付与した語彙的換言データセットの構築
+  info: 言語処理学会第25回年次大会, pp.803-806, March 2019
+  lang: ja
+
+- authors: 五十川 真生, 梶原 智之, 荒瀬 由紀
+  title: 大域的な類似度と部分文字列を用いた未知語分散表現の生成手法
+  info: 言語処理学会第25回年次大会, pp.1049-1052, March 2019
+  lang: ja
+
+- authors: 田中 昂志, Chenhui Chu, 中島 悠太, 武村 紀子, 長原 一, 藤川 隆男
+  title: 歴史新聞データからのコーパス構築
+  info: 言語処理学会第25回年次大会, pp.1065-1068, March 2019
+  lang: ja
+
+- authors: 竹林 佑斗, Chenhui Chu, 中島 悠太
+  title: 画像内物体間の視覚的関係の真偽判定データセット
+  info: 言語処理学会第25回年次大会, pp.1383-1386, March 2019
+  lang: ja
+
+- authors: 瓦 祐希, Chenhui Chu, 荒瀬 由紀
+  title: ニューラル機械翻訳における事前並び替えの影響分析
+  info: 言語処理学会第25回年次大会, pp.1455-1458, March 2019
+  lang: ja
+
+- authors: 野本 英梨子, Chenhui Chu, 荒瀬 由紀
+  title: テキストに基づく単一オブジェクト画像生成における描画の高品質化
+  info: 情報処理学会第238回自然言語処理研究発表会, December 2018
+  lang: ja
+
 - authors: 芦原 和樹, 梶原 智之, 荒瀬 由紀, 内田 諭
   title: 依存構造に基づく単語から語義の分散表現への細分化
   info: 情報処理学会第237回自然言語処理研究会, September 2018
@@ -8,7 +53,7 @@
   info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
   lang: ja
 
-- authors: 竹林佑斗, Chenhui Chu, 荒瀬由紀, 永田 昌明
+- authors: 竹林 佑斗, Chu Chenhui, 荒瀬 由紀, 永田 昌明
   title: ニューラル機械翻訳における単語予測の重要性について
   info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
   lang: ja
