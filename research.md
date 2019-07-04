@@ -14,7 +14,7 @@ tagline: "研究内容"
             <div class="research-theme">{{ LT.theme }}</div><BR>
             <div class="research-content">{{ LT.contents }}</div>
             {% for image in LT.img %}
-                <div class="research-img" style="background: url({{ site.baseurl }}/_data/image/{{ image }})"></div>
+                <div class="research-img" style="background: url({{ site.baseurl }}/image/{{ image }})"></div>
             {% endfor %}
         </div>
     {% endfor %}
