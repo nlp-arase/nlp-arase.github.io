@@ -38,6 +38,20 @@
   info: 言語処理学会第25回年次大会, pp.1455-1458, March 2019
   lang: ja
 
+- authors: 梶原智之
+  title: 負の語彙制約に基づくニューラル言い換え生成
+  info: 言語処理学会第25回年次大会, pp.691-694, March 2019
+  lang: ja
+
+- authors: 嶋中宏希, <u>梶原智之</u>, 小町守
+  title: BERTを用いた機械翻訳の自動評価
+  info: 言語処理学会第25回年次大会, pp.590-593, March 2019
+  lang: ja
+
+- authors: Chenhui Chu, 梶原智之, 中島悠太, 長原一, 渡辺理和, 大久保規子
+  title: 多国間法律の比較と統計分析のための多言語機械翻訳
+  info: 情報処理学会第119回人文科学とコンピュータ研究会, pp.1-3, February 2019
+
 - authors: 野本 英梨子, Chenhui Chu, 荒瀬 由紀
   title: テキストに基づく単一オブジェクト画像生成における描画の高品質化
   info: 情報処理学会第238回自然言語処理研究発表会, December 2018
@@ -47,7 +61,32 @@
   title: 依存構造に基づく単語から語義の分散表現への細分化
   info: 情報処理学会第237回自然言語処理研究会, September 2018
   lang: ja
-  
+
+- authors: 西原 大貴, 梶原 智之, 荒瀬 由紀
+  title: テキスト平易化における難易度の制御
+  info: NLP若手の会第13回シンポジウム, P02, August 2018
+  lang: ja
+
+- authors: 大橋 空, 高山 隼矢, 梶原 智之, Chenhui Chu, 荒瀬 由紀
+  title: 医療ドメインにおける単語分散表現を用いた文単位の言い換え認識
+  info: NLP若手の会第13回シンポジウム, P06, August 2018
+  lang: ja
+
+- authors: 嶋中 宏希, 梶原 智之, 小町 守
+  title: "RUSE: 文の分散表現を用いた回帰モデルによる機械翻訳の自動評価"
+  info: NLP若手の会第13回シンポジウム, P16, August 2018
+  lang: ja
+
+- authors: 五十川 真生, 梶原 智之, 荒瀬 由紀
+  title: 大域的な類似度を考慮した未知語分散表現
+  info: NLP若手の会第13回シンポジウム, P21, August 2018
+  lang: ja
+
+- authors: 三浦 びわ, 梶原 智之, 荒瀬 由紀
+  title: スタイル変換のためのリファレンスなし教師あり学習
+  info: NLP若手の会第13回シンポジウム, P39, August 2018
+  lang: ja
+
 - authors: 高田 祥平, 荒瀬 由紀, 内田 諭
   title: 単語分散表現による語義の近似を用いた語彙平易化手法
   info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
@@ -61,6 +100,11 @@
 - authors: 田中 貴秋, 永田 昌明, 荒瀬 由紀, 鬼塚 真
   title: 意味グラフに基づくテキスト類似性尺度の提案
   info: 第32回人工知能学会全国大会 (JSAI2018), June 2018
+  lang: ja
+
+- authors: 高田 理功, 梶原 智之, 奥村 紀之
+  title: 再現が容易な単語の平易化判定手法
+  info: 人工知能学会第32回全国大会 (JSAI2018), June 2018
   lang: ja
 
 - authors: 田中 昂志, 高山 隼矢, 荒瀬 由紀
