@@ -10,7 +10,7 @@
   
 - authors: Kozo Chikai, Junya Takayama, Yuki Arase
   title: Responsive and Self-Expressive Dialogue Generation
-  info: In Proceedings of the NLP for Conversational AI workshop, August 2019. (to appear)
+  info: In Proceedings of the NLP for Conversational AI workshop (held in ACL2019), August 2019. (to appear)
   lang: en
 
 - authors: Koji Tanaka, Junya Takayama, Yuki Arase
@@ -42,12 +42,27 @@
   title: Word Rewarding for Adequate Neural Machine Translation
   info: In proceedings of 15th International Workshop on Spoken Language Translation, October 2018
   lang: en
-  
+
+- authors: Chenhui Chu, Rui Wang
+  title: A Survey of Domain Adaptation for Neural Machine Translation
+  info: In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), pp.1304-1319, August 2018
+  lang: en
+
+- authors: Chenhui Chu, Mayu Otani, Yuta Nakashima
+  title: "iParaphrasing: Extracting Visually Grounded Paraphrases via an Image"
+  info: In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), pp.3479-3492, August 2018
+  lang: en
+
 - authors: Yuki Kawara, Chenhui Chu, Yuki Arase
   title: Recursive Neural Network Based Preordering for English-to-Japanese Machine Translation
   info: In proceedings of ACL 2018, Student Research Workshop, pp.21-27, July 2018
   lang: en
-  
+
+- authors: Mayu Otani, <u>Chenhui Chu</u>, Yuta Nakashima
+  title: Visually Grounded Paraphrase Extraction via Phrase Grounding
+  info: In Proceedings of the Workshop on Language and Vision at CVPR 2018, June 2018
+  lang: en
+
 - authors: Hiroki Shimanaka, <u>Tomoyuki Kajiwara</u>, Mamoru Komachi
   title: Metric for Automatic Machine Translation Evaluation based on Universal Sentence Representations
   info: In Proceedings of the NAACL 2018, Student Research Workshop, pp.106-111, June 2018
@@ -80,6 +95,11 @@
 - authors: "Yuki Arase, Jun'ichi Tsujii"
   title: Monolingual Phrase Alignment on Parse Forests
   info: In proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)， pp.1-11, September 2017
+  lang: en
+
+- authors: Chenhui Chu, Raj Dabre, Sadao Kurohashi
+  title: An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation
+  info: In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (ACL 2017 short), pp.385-391, July 2017
   lang: en
 
 - authors: Kozo Chikai, Yuki Arase
