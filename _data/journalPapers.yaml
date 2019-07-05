@@ -12,7 +12,12 @@
   title: Dialogue Breakdown Detection Robust to Variations in Annotators and Dialogue Systems
   info: Computer Speech & Language Vol. 54, pp.31-43, March 2019
   lang: en
-  
+
+- authors: Chenhui Chu, Raj Dabre, Sadao Kurohashi
+  title: A Comprehensive Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation
+  info: 情報処理学会論文誌, Vol.26, No.1, pp.1-10, June 2018
+  lang; ja
+
 - authors: 吉田 光男, 荒瀬 由紀
   title: トレンドキーワードに関するウェブリソースの横断的分析
   info: 情報処理学会論文誌：データベース, Vol.9, No.1, pp.20-30, April 2016
