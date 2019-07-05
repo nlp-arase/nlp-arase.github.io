@@ -1,3 +1,13 @@
+- authors: Zekun Yang, Noa Garcia, <u>Chenhui Chu</u>, Mayu Otani, Yuta Nakashima, Haruo Takemura
+  title: Video Question Answering with BERT
+  info: The 22st Meeting on Image Recognition and Understanding (MIRU 2019), July 2019
+  lang: ja
+
+- authors: Noa Garcia, <u>Chenhui Chu</u>, Mayu Otani, Yuta Nakashima
+  title: Video Meets Knowledge in Visual Question Answering
+  info: The 22st Meeting on Image Recognition and Understanding (MIRU 2019), July 2019
+  lang: ja
+
 - authors: 西原 大貴, 梶原 智之, 荒瀬 由紀
   title: 単語の難易度を考慮したテキストの難易度制御
   info: 情報処理学会第240回自然言語処理研究会, June 2019
@@ -77,9 +87,14 @@
   info: NLP若手の会第13回シンポジウム, P06, August 2018
   lang: ja
 
-- authors: 嶋中 宏希, 梶原 智之, 小町 守
+- authors: 嶋中 宏希, <u>梶原 智之</u>, 小町 守
   title: "RUSE: 文の分散表現を用いた回帰モデルによる機械翻訳の自動評価"
   info: NLP若手の会第13回シンポジウム, P16, August 2018
+  lang: ja
+
+- authors: Mayu Otani, <u>Chenhui Chu</u>, Yuta Nakashima
+  title: Phrase Localization-based Visually Grounded Paraphrase Identification
+  info: The 21st Meeting on Image Recognition and Understanding (MIRU 2018), August 2018
   lang: ja
 
 - authors: 五十川 真生, 梶原 智之, 荒瀬 由紀
