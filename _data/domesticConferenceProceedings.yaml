@@ -151,6 +151,36 @@
   title: Visually Grounded Paraphrase Extraction
   info: 言語処理学会 第24回年次大会 (NLP 2018), pp.979-982,March 2018
   lang: ja
+
+- authors: 田中 昂志, 荒瀬 由紀
+  title: ユーザの興味推定に基づく発話機構の検討
+  info: NLP若手の会第12回シンポジウム, P07, September 2018
+  lang: ja
+
+- authors: 高山 隼矢, 荒瀬 由紀
+  title: 擬似対話コーパス構築のための対話品質推定
+  info: NLP若手の会第12回シンポジウム, P21, September 2018
+  lang: ja
+
+- authors: Chenhui Chu, Mayu Otani, Yuta Nakashima
+  title: Image-pivoted Paraphrase Extraction
+  info: NLP若手の会第12回シンポジウム, P24, September 2018
+  lang: ja
+
+- authors: 五十川 真生, 近井 厚三, 荒瀬 由紀
+  title: ユーザとの対話による発話・応答データ収集機構の試作
+  info: NLP若手の会第12回シンポジウム, D03, September 2018
+  lang: ja
+
+- authors: 野本 英梨子, 荒瀬 由紀
+  title: テキストからの複数オブジェクト画像生成手法の検討
+  info: NLP若手の会第12回シンポジウム, P29, September 2018
+  lang: ja
+
+- authors: 芦原 和樹, 高田 祥平, 荒瀬 由紀, 内田 諭
+  title: 英語教育支援のための複合語言い換えに向けた検索及び難易度推定手法の検討
+  info: NLP若手の会第12回シンポジウム, P44, September 2018
+  lang: ja
   
 - authors: 高田 祥平, 荒瀬 由紀, 内田 諭
   title: "英語教育支援のためのLexical Simplification: コロケーションスコアを用いたアプローチ"
