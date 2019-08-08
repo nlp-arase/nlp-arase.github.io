@@ -33,14 +33,14 @@
             "theme" : "分散表現",
             "contents" : "荒瀬先生に分散表現について書いてもらう",
             "img" : [
-                "emb.jpeg",
+                "representation.jpg",
             ],
             },
             {
             "theme" : "言い換え認識",
             "contents" : "荒瀬先生に言い換え認識について書いてもらう",
             "img" : [
-                "ppr.jpeg"
+                "paraphrase.jpg"
             ],
             },
         ]
@@ -52,7 +52,7 @@
             "theme" : "医療",
             "contents" : "大橋に医療NLPについて書いてもらう",
             "img" : [
-                "clin.jpeg"
+                "clinical-nlp.jpg"
             ],
             },
             {
