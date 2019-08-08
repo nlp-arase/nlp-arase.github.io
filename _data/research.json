@@ -38,7 +38,7 @@
             },
             {
             "theme" : "言い換え認識",
-            "contents" : "荒瀬先生に言い換え認識について書いてもらう",
+            "contents" : "",
             "img" : [
                 "paraphrase.jpg"
             ],
@@ -50,7 +50,7 @@
         "LowerTheme" : [
             {
             "theme" : "医療",
-            "contents" : "大橋に医療NLPについて書いてもらう",
+            "contents" : "",
             "img" : [
                 "clinical-nlp.jpg"
             ],
