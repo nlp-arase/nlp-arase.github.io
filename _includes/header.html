@@ -18,7 +18,7 @@
 
     {% for sitePage in site.pages %}
     <!--{% if sitePage.title %}-->
-    {% if site.Page.lang == 'en' %}
+    {% if sitePage.lang == 'en' %}
 
     <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
     <!--{% endif %}-->
