@@ -4,8 +4,9 @@ title: Member
 permalink: /member/
 category: "member"
 tagline: "荒瀬班の愉快な仲間たち"
+lang: ja
 ---
-
+Japanese
 <h3 class="member-role"><span>Professors</span></h3> 
 
 {% for person in site.data.professors %}
