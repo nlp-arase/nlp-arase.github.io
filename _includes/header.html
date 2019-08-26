@@ -22,6 +22,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+    {sitePage.anotherlink | prepend: site.baseurl }}
     {% if page.lang == 'ja' %}
       <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.anotherlink | prepend: site.baseurl }}">English</a>
     {% else %}
