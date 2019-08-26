@@ -4,6 +4,7 @@ title: Publication
 permalink: /publication/
 category: "science"
 tagline: "荒瀬班の研究業績"
+lang: ja
 ---
 
 
