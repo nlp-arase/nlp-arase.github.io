@@ -1,10 +1,13 @@
 [
     {
         "UpperTheme" : "言語生成",
+        "UpperTheme_en": "Natural Language Generation",
         "LowerTheme" : [
             {
             "theme" : "翻訳",
             "contents" : "瓦さんに翻訳について書いてもらう",
+            "theme_en": "Machine Translation",
+            "contents_en": "",
             "img" : [
                 "mt.jpg",
             ],
@@ -12,6 +15,8 @@
             {
             "theme" : "対話",
             "contents" : "高山さんに対話について書いてもらう",
+            "theme_en": "Response Generation",
+            "contents_en": "",
             "img" : [
                 "research_tanaka.jpeg",
                 "research_takayama.jpeg",
@@ -20,6 +25,8 @@
             {
             "theme" : "言い換え生成",
             "contents" : "梶原さんに言い換え生成について書いてもらう",
+            "theme_en": "Paraphrase Generation",
+            "contents_en": "",
             "img" : [
                 "ppg.jpeg",
             ],
@@ -28,10 +35,13 @@
     },
     {
         "UpperTheme" : "言語理解",
+        "UpperTheme_en": "Natural Language Recognition",
         "LowerTheme" : [
             {
             "theme" : "分散表現",
             "contents" : "荒瀬先生に分散表現について書いてもらう",
+            "theme_en": "Embedding",
+            "contents_en": "",
             "img" : [
                 "representation.jpg",
             ],
@@ -39,6 +49,8 @@
             {
             "theme" : "言い換え認識",
             "contents" : "",
+            "theme_en": "Paraphrase Recognition",
+            "contents_en": "",
             "img" : [
                 "paraphrase.jpg"
             ],
@@ -47,10 +59,13 @@
     },
     {
         "UpperTheme" : "応用",
+        "UpperTheme_en": "Application",
         "LowerTheme" : [
             {
             "theme" : "医療",
             "contents" : "",
+            "theme_en": "Clinical NLP",
+            "contents_en": "",
             "img" : [
                 "clinical-nlp.jpg"
             ],
@@ -58,6 +73,8 @@
             {
             "theme" : "画像生成",
             "contents" : "野本さんに画像生成について書いてもらう",
+            "theme_en": "Image Generation",
+            "contents_en": "",
             "img" : [
                 "tti.jpg"
             ],

@@ -1,7 +1,7 @@
 ---
 layout: page
 title : Research
-permalink: /research/
+permalink: /en/research/
 category: "research"
 tagline: "研究内容"
 lang: en

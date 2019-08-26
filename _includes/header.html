@@ -18,8 +18,10 @@
     {% for sitePage in site.pages %}
       {% if sitePage.title %}
         {% if sitePage.lang == page.lang %}
-          {{sitePage.url}}
-          <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+          {{sitePage.url | prepend: site.baseurl}}
+          {{site.baseurl}}{{sitePage.url}}
+          {{site.baseurl}}/en{{sitePage.url}}
+          <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.permalink | prepend: site.baseurl }}">{{sitePage.title}}</a>
         {% endif %}
       {% endif %}
     {% endfor %}

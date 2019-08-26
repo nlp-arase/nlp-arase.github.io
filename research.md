@@ -4,6 +4,7 @@ title : Research
 permalink: /research/
 category: "research"
 tagline: "研究内容"
+lang: ja
 ---
 
 <div>

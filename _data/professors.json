@@ -1,16 +1,19 @@
 [
   {
     "name" : "荒瀬 由紀",
+    "name_en": "Yuki Arase",
     "grade" : "Associate professor",
     "introduction" : "hogehoge"
   },
     {
     "name" : "Chu Chenhui",
+      "name_en": "Chu Chenhui",
     "grade" : "Collaborator",
     "introduction" : "hogehoge"
   },
   {
     "name" : "梶原 智之",
+    "name_en": "Tomoyuki Kajiwara",
     "grade" : "Collaborator",
     "introduction" : "hogehoge"
   },

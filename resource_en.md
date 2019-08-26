@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resource
-permalink: /resource/
+permalink: /en/resource/
 lang: en
 
 tagline: "公開リソース"
