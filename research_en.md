@@ -2,6 +2,7 @@
 layout: page
 title : Research
 permalink: /en/research/
+anotherlink: /research/
 category: "research"
 tagline: "研究内容"
 lang: en

@@ -2,6 +2,7 @@
 layout: page
 title: Resource
 permalink: /en/resource/
+anotherlink: /resource/
 lang: en
 
 tagline: "公開リソース"

@@ -2,6 +2,7 @@
 layout: page
 title: Member
 permalink: /member/
+anotherlink: /en/member/
 category: "member"
 tagline: "荒瀬班の愉快な仲間たち"
 lang: ja

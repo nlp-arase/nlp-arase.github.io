@@ -2,6 +2,7 @@
 layout: page
 title: Publication
 permalink: /publication/
+anotherlink: /en/publication/
 category: "science"
 tagline: "荒瀬班の研究業績"
 lang: ja

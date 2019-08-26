@@ -18,17 +18,14 @@
     {% for sitePage in site.pages %}
       {% if sitePage.title %}
         {% if sitePage.lang == page.lang %}
-          {{sitePage.url | prepend: site.baseurl}}
-          {{site.baseurl}}{{sitePage.url}}
-          {{site.baseurl}}/en{{sitePage.url}}
           <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.permalink | prepend: site.baseurl }}">{{sitePage.title}}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
     {% if page.lang == 'ja' %}
-      <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl}}">English</a>
+      <span class="exclamationMark">/</span><a class="page-link" href="{{site.baseurl}}{{sitePage.anotherlink}}">English</a>
     {% else %}
-      <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl}}">Japanese</a>
+      <span class="exclamationMark">/</span><a class="page-link" href="{{site.baseurl}}{{sitePage.anotherlink}}">Japanese</a>
     {% endif %}
   </div>
 </div>
