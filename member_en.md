@@ -13,7 +13,7 @@ English
 
 {% for person in site.data.professors %}
   <ul class="member-content">
-    {{ person.name }} | {{ person.grade }} <br>
+    {{ person.name_en }} | {{ person.grade }} <br>
     {{ person.introduction }}
   </ul>
 {% endfor %}
@@ -22,7 +22,7 @@ English
 
 {% for person in site.data.students %}
   <ul class="member-content">
-    {{ person.name }} | {{ person.grade }} <br>
+    {{ person.name_en }} | {{ person.grade }} <br>
     {{ person.introduction }}
   </ul>
 {% endfor %}
