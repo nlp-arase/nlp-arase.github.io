@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Member
+title: メンバー
 permalink: /member/
 anotherlink: /en/member/
 category: "member"

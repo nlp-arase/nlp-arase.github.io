@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: 業績
 permalink: /publication/
 anotherlink: /en/publication/
 category: "science"
