@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Research
+title : 研究内容
 permalink: /research/
 anotherlink: /en/research/
 category: "research"

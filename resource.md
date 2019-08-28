@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resource
+title: 公開リソース
 permalink: /resource/
 anotherlink: /en/resource/
 lang: ja
