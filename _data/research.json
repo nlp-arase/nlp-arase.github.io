@@ -14,9 +14,9 @@
             },
             {
             "theme" : "対話",
-            "contents" : "高山さんに対話について書いてもらう",
+            "contents" : "より人間らしく，ユーモアに溢れた対話システムを目指して，日々研究を進めています．",
             "theme_en": "Response Generation",
-            "contents_en": "",
+            "contents_en": "We are conducting research every day with the aim of creating a more humane and humorous dialogue system.",
             "img" : [
                 "nrg_tanaka.jpg",
                 "nrg_takayama.jpg",
