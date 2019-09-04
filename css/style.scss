@@ -202,9 +202,11 @@ pre {
 /**
  * Wrapper
  */
-.wrapper {
+// display: none で指定したクラスの部分を表示しなくするのをうまく使う
+@media only screen and (min-width: 769px) {
+  .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -212,20 +214,55 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+      max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+      max-width: calc(#{$content-width} - (#{$spacing-unit}));
+      padding-right: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
     }
+  }
+  .site-navigation {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-indent: 6px;
+    font-family: 'Josefin Sans';
+    font-weight: 300;
+    padding-top: 5em;
+  }
 }
 
+@media only screen and (max-width: 768px) {
+  .wrapper {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
 
+    @include media-query($on-laptop) {
+      max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+      max-width: calc(#{$content-width} - (#{$spacing-unit}));
+      padding-right: $spacing-unit / 2;
+      padding-left: $spacing-unit / 2;
+    }
+  }
+  .site-navigation {
+    text-transform: lowercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    text-indent: 6px;
+    font-family: 'Josefin Sans';
+    font-weight: 300;
+    padding-top: 5em;
+  }
+}
 
 /**
  * Clearfix
  */
 %clearfix {
-
     &:after {
         content: "";
         display: table;
@@ -348,15 +385,7 @@ pre {
   padding-left: 1em;
   padding-right: 1em;
 }
-.site-navigation {
-  text-transform: uppercase;
-  font-size: 14px;
-  letter-spacing: 2px;
-  text-indent: 6px;
-  font-family: 'Josefin Sans';
-  font-weight: 300;
-  padding-top: 5em;
-}
+
 .page-title {
   text-transform: uppercase;
   letter-spacing: 2px;
