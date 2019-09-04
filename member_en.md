@@ -8,7 +8,6 @@ tagline: "荒瀬班の愉快な仲間たち"
 lang: en
 ---
 
-English
 <h3 class="member-role"><span>Professors</span></h3> 
 
 {% for person in site.data.professors %}
