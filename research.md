@@ -4,7 +4,7 @@ title : 研究内容
 permalink: /research/
 anotherlink: /en/research/
 category: "research"
-tagline: "研究内容"
+tagline: "取り組んでいる分野と研究を紹介します．"
 lang: ja
 ---
 

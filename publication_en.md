@@ -4,7 +4,7 @@ title: Publication
 permalink: /en/publication/
 anotherlink: /publication/
 category: "science"
-tagline: "荒瀬班の研究業績"
+tagline: "Our publications (domestic conferences is omitted)"
 lang: en
 ---
 
