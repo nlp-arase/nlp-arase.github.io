@@ -1,3 +1,38 @@
+- authors: 中町 礼文, 梶原 智之, 荒瀬 由紀
+  title: 強化学習を用いた難易度制御可能なテキスト平易化
+  info: NLP若手の会第14回シンポジウム, P14, August 2019
+  lang: ja
+
+- authors: 西原 大貴, 梶原 智之, 荒瀬 由紀, 藤田 篤
+  title: ニューラルNLPモデルの前編集としての言い換え生成の検討
+  info: NLP若手の会第14回シンポジウム, P19, August 2019
+  lang: ja
+
+- authors: 瓦 祐希, Chenhui Chu, 荒瀬 由紀
+  title: 事前並び替えによる英日Transformerモデルの翻訳精度向上
+  info: NLP若手の会第14回シンポジウム, P25, August 2019
+  lang: ja
+
+- authors: 山内 崇史, 梶原 智之, 荒瀬 由紀
+  title: 文脈化された単語ベクトルからの単語領域表現
+  info: NLP若手の会第14回シンポジウム, P34, August 2019
+  lang: ja
+
+- authors: Mishra Vipul, Yuki Kawara, Chenhui Chu, Yuki Arase
+  title: Comparison and Analysis of 2-to-2 and Hierarchical RNN Models on Japanese-to-English Context-Aware Translation
+  info: NLP若手の会第14回シンポジウム, P47, August 2019
+  lang: ja
+
+- authors: 吉仲 真人, 梶原 智之, 荒瀬 由紀
+  title: 言い換えエラー分析のための言い換え分解ツールの試作
+  info: NLP若手の会第14回シンポジウム, P61, August 2019
+  lang: ja
+
+- authors: 芦原 和樹, 梶原 智之, 荒瀬 由紀, 内田 諭
+  title: 文脈ベクトルと細分化した単語ベクトルを用いた語彙的換言
+  info: NLP若手の会第14回シンポジウム, P75, August 2019
+  lang: ja
+
 - authors: Zekun Yang, Noa Garcia, <u>Chenhui Chu</u>, Mayu Otani, Yuta Nakashima, Haruo Takemura
   title: Video Question Answering with BERT
   info: The 22st Meeting on Image Recognition and Understanding (MIRU 2019), July 2019

@@ -1,26 +1,31 @@
+- authors: Yuki Arase and Jun’ichi Tsujii
+  title: Injecting Phrasal Paraphrase Relation into Sentence Representation for Semantic Equivalence Assessment
+  info: In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). (to appear)
+  lang: en
+
 - authors: Tomoyuki Kajiwara
   title: Negative Lexically Constrained Decoding for Paraphrase Generation
-  info: In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), July 2019 (to appear)
+  info: In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), pp.6047-6052, July 2019
   lang: en
 
 - authors: Junya Takayama, Yuki Arase
   title: Relevant and Informative Response Generationusing Pointwise Mutual Information
-  info: In Proceedings of the NLP for Conversational AI workshop (held in ACL2019), August 2019 (to appear)
+  info: In Proceedings of the First Workshop on NLP for Conversational AI (held in ACL2019), pp.133-138, August 2019
   lang: en
   
 - authors: Kozo Chikai, Junya Takayama, Yuki Arase
   title: Responsive and Self-Expressive Dialogue Generation
-  info: In Proceedings of the NLP for Conversational AI workshop (held in ACL2019), August 2019. (to appear)
+  info: In Proceedings of the First Workshop on NLP for Conversational AI (held in ACL2019), pp.139-149, August 2019.
   lang: en
 
 - authors: Koji Tanaka, Junya Takayama, Yuki Arase
   title: Dialogue-Act Prediction of Future Response based on Conversation History
-  info: In Proceedings of ACL 2019, Student Research Workshop, July 2019. (to appear)
+  info: In Proceedings of ACL 2019, Student Research Workshop, pp.197-202, July 2019.
   lang: en
   
 - authors: Daiki Nishihara, Tomoyuki Kajiwara, Yuki Arase
   title: Controllable Text Simplification with Lexical Constraint
-  info: In Proceedings of ACL 2019, Student Research Workshop, July 2019. (to appear)
+  info: In Proceedings of ACL 2019, Student Research Workshop, pp.260-266, July 2019.
   lang: en
 
 - authors: Kazuki Ashihara, Tomoyuki Kajiwara, Yuki Arase and Satoru Uchida
