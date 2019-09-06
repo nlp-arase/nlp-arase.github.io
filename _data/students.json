@@ -3,79 +3,97 @@
     "name" : "瓦 祐希",
     "name_en": "Yuki Kawara",
     "grade" : "D2",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge",
   },
   {
     "name" : "早川 威士",
     "name_en": "Takeshi Hayakawa",
     "grade" : "D2",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "高山 隼矢",
     "name_en": "Junya Takayama",
     "grade" : "D1",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://junya-takayama.github.io/'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://junya-takayama.github.io/'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://junya-takayama.github.io/'>Homepage</a>"
   },
   {
     "name" : "芦原 和樹",
     "name_en": "Kazuki Ashihara",
     "grade" : "M2",
-    "introduction" : "hogehoge"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://github.com/traymihael'>Github</a> / <a target='_blank' rel='noopener noreferrer' href='https://www.slideshare.net/kazukiahsihara'>SlideShare</a>",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "田中 昂志",
     "name_en": "Koji Tanaka",
     "grade" : "M2",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://tanaka504.github.io/'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/KiSaSaGe_OU'>Twitter</a> / <a target='_blank' rel='noopener noreferrer' href='https://www.facebook.com/profile.php?id=100014913543630'>facebook</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://tanaka504.github.io/'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/KiSaSaGe_OU'>Twitter</a> / <a target='_blank' rel='noopener noreferrer' href='https://www.facebook.com/profile.php?id=100014913543630'>facebook</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://tanaka504.github.io/'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/KiSaSaGe_OU'>Twitter</a> / <a target='_blank' rel='noopener noreferrer' href='https://www.facebook.com/profile.php?id=100014913543630'>facebook</a>"
+
   },
   {
     "name" : "野本 英梨子",
     "name_en": "Eriko Nomoto",
     "grade" : "M2",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "大橋 空",
     "name_en": "Sora Ohashi",
     "grade" : "M1",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://21335732529sky.github.io/'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://21335732529sky.github.io/'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://21335732529sky.github.io/'>Homepage</a>"
+
   },
   {
     "name" : "西原 大貴",
     "name_en": "Daiki Nishihara",
     "grade" : "M1",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://nishihara-daiki.github.io/'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://nishihara-daiki.github.io/'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://nishihara-daiki.github.io/'>Homepage</a>"
+
   },
   {
     "name" : "中町 礼文",
     "name_en": "Akifumi Nakamachi",
     "grade" : "M1",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "山内 崇史",
     "name_en": "Takashi Yamauchi",
     "grade" : "B4",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yamauchi-takashi'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yamauchi-takashi'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yamauchi-takashi'>Homepage</a>"
+
   }, 
   {
     "name" : "吉仲 真人",
     "name_en": "Masato Yoshinaka",
     "grade" : "B4",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yoshinaka-masato'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yoshinaka-masato'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/view/yoshinaka-masato'>Homepage</a>"
+
   },
   {
     "name" : "Vipul Mishra",
     "name_en": "Vipul Mishra",
     "grade" : "B4",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "TBD",
     "name_en": "TBD",
     "grade" : "B3",
-    "introduction" : "hogehoge"
+    "introduction" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
 
 ]
