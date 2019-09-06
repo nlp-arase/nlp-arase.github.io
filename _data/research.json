@@ -5,7 +5,7 @@
         "LowerTheme" : [
             {
             "theme" : "翻訳",
-            "contents" : "瓦さんに翻訳について書いてもらう",
+            "contents" : "",
             "theme_en": "Machine Translation",
             "contents_en": "",
             "img" : [
@@ -14,7 +14,7 @@
             },
             {
             "theme" : "対話",
-            "contents" : "より人間らしく，ユーモアに溢れた対話システムを目指して，日々研究を進めています．",
+            "contents" : "",
             "theme_en": "Response Generation",
             "contents_en": "We are conducting research every day with the aim of creating a more humane and humorous dialogue system.",
             "img" : [
@@ -24,7 +24,7 @@
             },
             {
             "theme" : "言い換え生成",
-            "contents" : "梶原さんに言い換え生成について書いてもらう",
+            "contents" : "",
             "theme_en": "Paraphrase Generation",
             "contents_en": "",
             "img" : [
@@ -39,7 +39,7 @@
         "LowerTheme" : [
             {
             "theme" : "分散表現",
-            "contents" : "荒瀬先生に分散表現について書いてもらう",
+            "contents" : "",
             "theme_en": "Embedding",
             "contents_en": "",
             "img" : [
@@ -72,7 +72,7 @@
             },
             {
             "theme" : "画像生成",
-            "contents" : "野本さんに画像生成について書いてもらう",
+            "contents" : "",
             "theme_en": "Image Generation",
             "contents_en": "",
             "img" : [
