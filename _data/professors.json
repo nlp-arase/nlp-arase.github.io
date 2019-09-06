@@ -4,18 +4,20 @@
     "name_en": "Yuki Arase",
     "grade" : "Associate professor",
     "introduction" : "<a target='_blank' rel='noopener noreferrer' href='http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/Yuki_arase'>Twitter</a>",
-    "introduction_en": ""
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/Yuki_arase'>Twitter</a>"
   },
-    {
+  {
     "name" : "Chu Chenhui",
-      "name_en": "Chu Chenhui",
+    "name_en": "Chu Chenhui",
     "grade" : "Collaborator",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://researchmap.jp/chu/?lang=japanese'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://researchmap.jp/chu/?lang=japanese'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://researchmap.jp/chu/?lang=japanese'>Homepage</a>"
   },
   {
     "name" : "梶原 智之",
     "name_en": "Tomoyuki Kajiwara",
     "grade" : "Collaborator",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/site/moguranosenshi/'>Homepage</a>"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/site/moguranosenshi/'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf'>Homepage</a>"
   },
 ]
