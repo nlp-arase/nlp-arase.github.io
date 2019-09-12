@@ -4,7 +4,7 @@
     "name_en": "Yuki Kawara",
     "grade" : "D2",
     "introduction" : "hogehoge",
-    "introduction_en" : "hogehoge",
+    "introduction_en" : "hogehoge"
   },
   {
     "name" : "早川 威士",
@@ -39,8 +39,8 @@
     "name" : "野本 英梨子",
     "name_en": "Eriko Nomoto",
     "grade" : "M2",
-    "introduction" : "hogehoge",
-    "introduction_en" : "hogehoge"
+    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://nomotoeriko.github.io/'>Homepage</a>",
+    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://nomotoeriko.github.io/'>Homepage</a>"
   },
   {
     "name" : "大橋 空",
@@ -94,6 +94,6 @@
     "grade" : "B3",
     "introduction" : "hogehoge",
     "introduction_en" : "hogehoge"
-  },
+  }
 
 ]
