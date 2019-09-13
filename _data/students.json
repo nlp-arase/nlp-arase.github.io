@@ -57,9 +57,9 @@
       {"name": "Facebook", "link": "https://www.facebook.com/profile.php?id=100014913543630"},
     ],
     "introduction_en" : [
-      {"Homepage", "https://tanaka504.github.io/"},
-      {"Twitter", "https://twitter.com/KiSaSaGe_OU"},
-      {"Facebook", "https://www.facebook.com/profile.php?id=100014913543630"},
+      {"name": "Homepage", "link": "https://tanaka504.github.io/"},
+      {"name": "Twitter", "link": "https://twitter.com/KiSaSaGe_OU"},
+      {"name": "Facebook", "link": "https://www.facebook.com/profile.php?id=100014913543630"},
     ]
   },
   {
