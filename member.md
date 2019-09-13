@@ -23,7 +23,7 @@ lang: ja
   <ul class="member-content">
     {{ person.name }} | {{ person.grade }} <br>
     {% for link in person.introduction %}
-        <a target='_blank' rel='noopener noreferrer' href='{{ link.1 }}'>{{ link.0 }}</a> /
+        <a target='_blank' rel='noopener noreferrer' href='{{ link.link }}'>{{ link.name }}</a> /
     {% endfor %}
   </ul>
 {% endfor %}

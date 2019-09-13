@@ -4,12 +4,12 @@
     "name_en": "Yuki Arase",
     "grade" : "Associate professor",
     "introduction": [
-      ["Homepage", "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"],
-      ["Twitter", "https://twitter.com/Yuki_arase"],
+      {"name": "Homepage", "link": "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"},
+      {"name": "Twitter", "link": "https://twitter.com/Yuki_arase"},
     ],
     "introduction_en": [
-      ["Homepage", "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"],
-      ["Twitter", "https://twitter.com/Yuki_arase"],
+      {"name": "Homepage", "link": "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"},
+      {"name": "Twitter", "link": "https://twitter.com/Yuki_arase"},
     ]
   },
   {
@@ -17,10 +17,10 @@
     "name_en": "Chu Chenhui",
     "grade" : "Collaborator",
     "introduction": [
-      ["Homepage", "https://researchmap.jp/chu/?lang=japanese"],
+      {"name": "Homepage", "link": "https://researchmap.jp/chu/?lang=japanese"},
     ],
     "introduction_en": [
-      ["Homepage", "https://researchmap.jp/chu/?lang=japanese"],
+      {"name": "Homepage", "link": "https://researchmap.jp/chu/?lang=japanese"},
     ]
   },
   {
@@ -28,10 +28,10 @@
     "name_en": "Tomoyuki Kajiwara",
     "grade" : "Collaborator",
     "introduction": [
-      ["Homepage", "https://sites.google.com/site/moguranosenshi/"],
+      {"name": "Homepage", "link": "https://sites.google.com/site/moguranosenshi/"},
     ],
     "introduction_en": [
-      ["Homepage", "http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf"]
+      {"name": "Homepage", "link": "http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf"},
     ],
   },
 ]
