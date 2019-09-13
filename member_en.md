@@ -13,7 +13,9 @@ lang: en
 {% for person in site.data.professors %}
   <ul class="member-content">
     {{ person.name_en }} | {{ person.grade }} <br>
-    {{ person.introduction }}
+    {% for link in person.introduction_en %}
+        <a target='_blank' rel='noopener noreferrer' href='{{ link.link }}'>{{ link.name }}</a> /
+    {% endfor %}
   </ul>
 {% endfor %}
 
