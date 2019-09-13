@@ -3,21 +3,35 @@
     "name" : "荒瀬 由紀",
     "name_en": "Yuki Arase",
     "grade" : "Associate professor",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/Yuki_arase'>Twitter</a>",
-    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html'>Homepage</a> / <a target='_blank' rel='noopener noreferrer' href='https://twitter.com/Yuki_arase'>Twitter</a>"
+    "introduction": [
+      ("Homepage", "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"),
+      ("Twitter", "https://twitter.com/Yuki_arase"),
+    ],
+    "introduction_en": [
+      ("Homepage", "http://www-bigdata.ist.osaka-u.ac.jp/professor/arase/arase_jp.html"),
+      ("Twitter", "https://twitter.com/Yuki_arase"),
+    ]
   },
   {
     "name" : "Chu Chenhui",
     "name_en": "Chu Chenhui",
     "grade" : "Collaborator",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://researchmap.jp/chu/?lang=japanese'>Homepage</a>",
-    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='https://researchmap.jp/chu/?lang=japanese'>Homepage</a>"
+    "introduction": [
+      ("Homepage", "https://researchmap.jp/chu/?lang=japanese"),
+    ],
+    "introduction_en": [
+      ("Homepage", "https://researchmap.jp/chu/?lang=japanese"),
+    ]
   },
   {
     "name" : "梶原 智之",
     "name_en": "Tomoyuki Kajiwara",
     "grade" : "Collaborator",
-    "introduction" : "<a target='_blank' rel='noopener noreferrer' href='https://sites.google.com/site/moguranosenshi/'>Homepage</a>",
-    "introduction_en" : "<a target='_blank' rel='noopener noreferrer' href='http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf'>Homepage</a>"
+    "introduction": [
+      ("Homepage", "https://sites.google.com/site/moguranosenshi/"),
+    ],
+    "introduction_en": [
+      ("Homepage", "http://cl.sd.tmu.ac.jp/~kajiwara/cv.pdf")
+    ],
   },
 ]
