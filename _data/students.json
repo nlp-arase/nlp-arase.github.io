@@ -4,10 +4,10 @@
     "name_en": "Yuki Kawara",
     "grade" : "D2",
     "introduction": [
-      ("", ""),
+      ["", ""],
     ],
     "introduction_en" : [
-      ("", ""),
+      ["", ""],
     ]
   },
   {
@@ -15,10 +15,10 @@
     "name_en": "Takeshi Hayakawa",
     "grade" : "D2",
     "introduction": [
-      ("", ""),
+      ["", ""],
     ],
     "introduction_en" : [
-      ("", ""),
+      ["", ""],
     ]
   },
   {
@@ -26,10 +26,10 @@
     "name_en": "Junya Takayama",
     "grade" : "D1",
     "introduction" :[
-      ("Homepage", "https://junya-takayama.github.io/"),
+      ["Homepage", "https://junya-takayama.github.io/"],
     ],
     "introduction_en" :[
-      ("Homepage", "https://junya-takayama.github.io/"),
+      ["Homepage", "https://junya-takayama.github.io/"],
     ]
   },
   {
@@ -37,14 +37,14 @@
     "name_en": "Kazuki Ashihara",
     "grade" : "M2",
     "introduction" :[
-      ("Homepage", "https://sites.google.com/view/kazuki-ashihara"),
-      ("GitHub", "https://github.com/traymihael"),
-      ("SlideShare", "https://www.slideshare.net/kazukiahsihara"),
+      ["Homepage", "https://sites.google.com/view/kazuki-ashihara"],
+      ["GitHub", "https://github.com/traymihael"],
+      ["SlideShare", "https://www.slideshare.net/kazukiahsihara"],
     ],
     "introduction_en" :[
-      ("Homepage", "https://sites.google.com/view/kazuki-ashihara"),
-      ("GitHub", "https://github.com/traymihael"),
-      ("SlideShare", "https://www.slideshare.net/kazukiahsihara"),
+      ["Homepage", "https://sites.google.com/view/kazuki-ashihara"],
+      ["GitHub", "https://github.com/traymihael"],
+      ["SlideShare", "https://www.slideshare.net/kazukiahsihara"],
     ]
   },
   {
@@ -52,14 +52,14 @@
     "name_en": "Koji Tanaka",
     "grade" : "M2",
     "introduction" : [
-      ("Homepage", "https://tanaka504.github.io/"),
-      ("Twitter", "https://twitter.com/KiSaSaGe_OU"),
-      ("Facebook", "https://www.facebook.com/profile.php?id=100014913543630"),
+      ["Homepage", "https://tanaka504.github.io/"],
+      ["Twitter", "https://twitter.com/KiSaSaGe_OU"],
+      ["Facebook", "https://www.facebook.com/profile.php?id=100014913543630"],
     ],
     "introduction_en" : [
-      ("Homepage", "https://tanaka504.github.io/"),
-      ("Twitter", "https://twitter.com/KiSaSaGe_OU"),
-      ("Facebook", "https://www.facebook.com/profile.php?id=100014913543630"),
+      ["Homepage", "https://tanaka504.github.io/"],
+      ["Twitter", "https://twitter.com/KiSaSaGe_OU"],
+      ["Facebook", "https://www.facebook.com/profile.php?id=100014913543630"],
     ]
   },
   {
@@ -67,10 +67,10 @@
     "name_en": "Eriko Nomoto",
     "grade" : "M2",
     "introduction": [
-      ("Homepage", "https://nomotoeriko.github.io/"),
+      ["Homepage", "https://nomotoeriko.github.io/"],
     ],
     "introduction_en": [
-      ("Homepage", "https://nomotoeriko.github.io/"),
+      ["Homepage", "https://nomotoeriko.github.io/"],
     ]
   },
   {
@@ -78,10 +78,10 @@
     "name_en": "Sora Ohashi",
     "grade" : "M1",
     "introduction": [
-      ("Homepage", "https://21335732529sky.github.io/"),
+      ["Homepage", "https://21335732529sky.github.io/"],
     ],
     "introduction_en": [
-      ("Homepage", "https://21335732529sky.github.io/"),
+      ["Homepage", "https://21335732529sky.github.io/"],
     ]
   },
   {
@@ -89,10 +89,10 @@
     "name_en": "Daiki Nishihara",
     "grade" : "M1",
     "introduction": [
-      ("Homepage", "https://nishihara-daiki.github.io/"),
+      ["Homepage", "https://nishihara-daiki.github.io/"],
     ],
     "introduction_en": [
-      ("Homepage", "https://nishihara-daiki.github.io/"),
+      ["Homepage", "https://nishihara-daiki.github.io/"],
     ]
   },
   {
@@ -100,10 +100,10 @@
     "name_en": "Akifumi Nakamachi",
     "grade" : "M1",
     "introduction": [
-      ("", ""),
+      ["", ""],
     ],
     "introduction_en" : [
-      ("", ""),
+      ["", ""],
     ]
   },
   {
@@ -111,10 +111,10 @@
     "name_en": "Takashi Yamauchi",
     "grade" : "B4",
     "introduction": [
-      ("Homepage", "https://sites.google.com/view/yamauchi-takashi"),
+      ["Homepage", "https://sites.google.com/view/yamauchi-takashi"],
     ],
     "introduction_en": [
-      ("Homepage", "https://sites.google.com/view/yamauchi-takashi"),
+      ["Homepage", "https://sites.google.com/view/yamauchi-takashi"],
     ]
   },
   {
@@ -122,10 +122,10 @@
     "name_en": "Masato Yoshinaka",
     "grade" : "B4",
     "introduction": [
-      ("Homepage", "https://mybon13.github.io/"),
+      ["Homepage", "https://mybon13.github.io/"],
     ],
     "introduction_en": [
-      ("Homepage", "https://mybon13.github.io/"),
+      ["Homepage", "https://mybon13.github.io/"],
     ]
   },
   {
@@ -133,10 +133,10 @@
     "name_en": "Vipul Mishra",
     "grade" : "B4",
     "introduction": [
-      ("", ""),
+      ["", ""],
     ],
     "introduction_en" : [
-      ("", ""),
+      ["", ""],
     ]
   },
 ]
