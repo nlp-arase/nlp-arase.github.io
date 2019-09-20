@@ -233,37 +233,50 @@ pre {
     font-weight: 300;
     padding-top: 5em;
   }
+  #nav-toggle{
+    display: none;
+  }
+  #gloval-nav {
+    display: none;
+  }
+  .open #gloval-nav {
+    display: none;
+  }
 }
 
+/* for Smart Phone */
 @media only screen and (max-width: 768px) {
   .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-    &:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-
-    @include media-query($on-laptop) {
-      max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-      max-width: calc(#{$content-width} - (#{$spacing-unit}));
-      padding-right: $spacing-unit / 2;
-      padding-left: $spacing-unit / 2;
-    }
+    display: none;
   }
   .site-navigation {
-    text-transform: lowercase;
-    font-size: 14px;
-    letter-spacing: 2px;
-    text-indent: 6px;
-    font-family: 'Josefin Sans';
-    font-weight: 300;
-    padding-top: 5em;
+    display: none;
+  }
+  #nav-toggle{
+
+  }
+  #gloval-nav {
+    background: #000;
+    color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 990;
+    text-align: center;
+    display: flex;
+    visibility: hidden;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 29px;
+    opacity: 0;
+    transition: opacity .6s ease, visibility .6s ease;
+  }
+  .open #gloval-nav {
+    visibility: visible;
+    opacity: 1;
   }
 }
 
