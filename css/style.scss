@@ -205,6 +205,7 @@ pre {
 $burger-color: #333;
 $burger-color-hover: #00f;
 $burger-color-overlay: #fff;
+$mq: 768px;
 
 // display: none で指定したクラスの部分を表示しなくするのをうまく使う
 @media only screen and (min-width: 769px) {
@@ -245,57 +246,71 @@ $burger-color-overlay: #fff;
   }
 }
 
+@mixin mq {
+  @media (max-width: $mq) {
+    @content;
+  }
+}
+
 /* for Smart Phone */
 @media only screen and (max-width: 768px) {
   .site-navigation {
     display: none;
   }
-  .burger-nav {
-    padding-top: 50px;
-    max-width: 600px;
-    margin: auto;
-    justify-content: space-between;
+}
+.burger-nav {
+  padding-top: 50px;
+  max-width: 600px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
 
-    display: block;
-    color: #fff;
-    position: fixed;
-    left: 0;
-    top: 0;
-    display: none;
-    z-index: 10;
-    background-color: rgba(0, 0, 0, 0.7);
-    width: 100%;
-    height: 100%;
-
-    &.open {
-        display: block;
-    }
-
-    &.close {
-        display: none;
-    }
-    a {
-      color: $burger-color;
-      text-decoration: none;
+  @include mq {
       display: block;
-      color: $burger-color-overlay;
+      color: #fff;
+      position: fixed;
+      left: 0;
+      top: 0;
+      display: none;
+      z-index: 10;
+      background-color: rgba(0, 0, 0, 0.7);
+      width: 100%;
+      height: 100%;
 
+      &.open {
+          display: block;
+      }
+
+      &.close {
+          display: none;
+      }
+  }
+
+  a {
+    color: $burger-color;
+    text-decoration: none;
+      @include mq {
+          display: block;
+          color: $burger-color-overlay
+      }
       &:hover {
         color: $burger-color-hover;
       }
-    }
   }
-  .burger-icon {
-    display: block;
-    width: 25px;
-    height: 18px;
-    cursor: pointer;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    z-index: 20;
+}
 
-    span {
+.burger-icon {
+  @include mq {
+      display: block;
+      width: 25px;
+      height: 18px;
+      cursor: pointer;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      z-index: 20;
+
+      span {
         position: absolute;
         left: 0;
         width: 100%;
@@ -312,29 +327,29 @@ $burger-color-overlay: #fff;
             top: 8px;
         }
 
-        &:nth-of-type(3) {
-            bottom: 0;
-        }
-    }
-
-    &.is-burger-nav-open {
-      span {
-        background-color: $burger-color-overlay;
-
-        &:nth-of-type(1) {
-            transform: translateY(8px) rotate(-45deg);
-        }
-
-        &:nth-of-type(2) {
-            opacity: 0;
-        }
-
-        &:nth-of-type(3) {
-            transform: translateY(-8px) rotate(45deg);
-        }
+          &:nth-of-type(3) {
+              bottom: 0;
+          }
       }
+
+      &.is-burger-nav-open {
+          span {
+              background-color: $burger-color-overlay;
+
+              &:nth-of-type(1) {
+                  transform: translateY(8px) rotate(-45deg);
+              }
+
+              &:nth-of-type(2) {
+                  opacity: 0;
+              }
+
+              &:nth-of-type(3) {
+                  transform: translateY(-8px) rotate(45deg);
+              }
+          }
+        }
     }
-  }
 }
 
 /**
