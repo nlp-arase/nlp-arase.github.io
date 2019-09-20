@@ -260,9 +260,8 @@ $mq: 768px;
 }
 .burger-nav {
   padding-top: 50px;
-  max-width: 600px;
+  max-width: 100%;
   margin: auto;
-  display: flex;
   justify-content: space-between;
 
   @include mq {
@@ -301,55 +300,55 @@ $mq: 768px;
 
 .burger-icon {
   @include mq {
-      display: block;
-      width: 25px;
-      height: 18px;
-      cursor: pointer;
-      position: absolute;
-      top: 20px;
-      right: 20px;
-      z-index: 20;
+    display: block;
+    width: 25px;
+    height: 18px;
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 20;
 
+    span {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background-color: $burger-color;
+      border-radius: 4px;
+      transition: all 0.4s;
+
+      &:nth-of-type(1) {
+          top: 0;
+      }
+
+      &:nth-of-type(2) {
+          top: 8px;
+      }
+
+        &:nth-of-type(3) {
+            bottom: 0;
+        }
+    }
+
+    &.is-burger-nav-open {
       span {
-        position: absolute;
-        left: 0;
-        width: 100%;
-        height: 2px;
-        background-color: $burger-color;
-        border-radius: 4px;
-        transition: all 0.4s;
+        background-color: $burger-color-overlay;
 
         &:nth-of-type(1) {
-            top: 0;
+            transform: translateY(8px) rotate(-45deg);
         }
 
         &:nth-of-type(2) {
-            top: 8px;
+            opacity: 0;
         }
 
-          &:nth-of-type(3) {
-              bottom: 0;
-          }
+        &:nth-of-type(3) {
+            transform: translateY(-8px) rotate(45deg);
+        }
       }
-
-      &.is-burger-nav-open {
-          span {
-              background-color: $burger-color-overlay;
-
-              &:nth-of-type(1) {
-                  transform: translateY(8px) rotate(-45deg);
-              }
-
-              &:nth-of-type(2) {
-                  opacity: 0;
-              }
-
-              &:nth-of-type(3) {
-                  transform: translateY(-8px) rotate(45deg);
-              }
-          }
-        }
     }
+  }
 }
 
 /**
