@@ -282,9 +282,11 @@ $burger-color-overlay: #fff;
       text-decoration: none;
       display: block;
       color: $burger-color-overlay;
+
       &:hover {
         color: $burger-color-hover;
       }
+    }
   }
   .burger-icon {
     display: block;
