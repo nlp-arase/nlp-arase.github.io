@@ -246,15 +246,10 @@ pre {
 
 /* for Smart Phone */
 @media only screen and (max-width: 768px) {
-  .wrapper {
-    display: none;
-  }
   .site-navigation {
     display: none;
   }
-  #nav-toggle{
 
-  }
   #gloval-nav {
     background: #000;
     color: #fff;
