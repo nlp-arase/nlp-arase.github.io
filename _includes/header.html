@@ -11,6 +11,7 @@
   </div>
 </div>
 
+<!--for Smart Phone-->
 <a class="burger-icon" href="#">
     <span></span>
     <span></span>
@@ -18,15 +19,23 @@
 </a>
 <nav class="burger-nav">
   <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">MEMBER</a></li>
-    <li><a href="#">RESEARCH</a></li>
-    <li><a href="#">PUBLICATIONS</a></li>
-    <li><a href="#">RESOURCE</a></li>
-    <li><a href="#">ENGLISH</a></li>
+    <li><a href="{{site.url}}{{site.baseurl}}">HOME</a></li>
+    {% for sitePage in site.pages %}
+      {% if sitePage.title %}
+        {% if sitePage.lang == page.lang %}
+          <li><a href="{{sitePage.permalink | prepend: site.baseurl }}">{{sitePage.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% if page.lang == 'ja' %}
+      <li><a href="{{ page.anotherlink | prepend: site.baseurl }}">English</a></li>
+    {% else %}
+      <li><a href="{{ page.anotherlink | prepend: site.baseurl }}">Japanese</a></li>
+    {% endif %}
   </ul>
 </nav>
 
+<!--for PC-->
 <div class="wrapper">
   <div class="trigger site-navigation">
     <a class="page-link" href="{{site.url}}{{site.baseurl}}">HOME</a>
