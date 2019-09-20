@@ -237,13 +237,10 @@ $burger-color-overlay: #fff;
     font-weight: 300;
     padding-top: 5em;
   }
-  #nav-toggle{
+  .burger-icon {
     display: none;
   }
-  #gloval-nav {
-    display: none;
-  }
-  .open #gloval-nav {
+  .burger-nav {
     display: none;
   }
 }
