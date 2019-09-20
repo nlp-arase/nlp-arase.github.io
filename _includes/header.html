@@ -28,9 +28,9 @@
       {% endif %}
     {% endfor %}
     {% if page.lang == 'ja' %}
-      <a href="{{ page.anotherlink | prepend: site.baseurl }}">English</a>
+      <li><a href="{{ page.anotherlink | prepend: site.baseurl }}">English</a></li>
     {% else %}
-      <a href="{{ page.anotherlink | prepend: site.baseurl }}">Japanese</a>
+      <li><a href="{{ page.anotherlink | prepend: site.baseurl }}">Japanese</a></li>
     {% endif %}
   </ul>
 </nav>
