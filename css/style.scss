@@ -202,6 +202,10 @@ pre {
 /**
  * Wrapper
  */
+$burger-color: #333;
+$burger-color-hover: #00f;
+$burger-color-overlay: #fff;
+
 // display: none で指定したクラスの部分を表示しなくするのをうまく使う
 @media only screen and (min-width: 769px) {
   .wrapper {
@@ -249,29 +253,88 @@ pre {
   .site-navigation {
     display: none;
   }
+  .burger-nav {
+    padding-top: 50px;
+    max-width: 600px;
+    margin: auto;
+    justify-content: space-between;
 
-  #gloval-nav {
-    background: #000;
+    display: block;
     color: #fff;
     position: fixed;
-    top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 990;
-    text-align: center;
-    display: flex;
-    visibility: hidden;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    font-size: 29px;
-    opacity: 0;
-    transition: opacity .6s ease, visibility .6s ease;
+    top: 0;
+    display: none;
+    z-index: 10;
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+
+    &.open {
+        display: block;
+    }
+
+    &.close {
+        display: none;
+    }
+    a {
+      color: $burger-color;
+      text-decoration: none;
+      display: block;
+      color: $burger-color-overlay;
+      &:hover {
+        color: $burger-color-hover;
+      }
   }
-  .open #gloval-nav {
-    visibility: visible;
-    opacity: 1;
+  .burger-icon {
+    display: block;
+    width: 25px;
+    height: 18px;
+    cursor: pointer;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 20;
+
+    span {
+        position: absolute;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: $burger-color;
+        border-radius: 4px;
+        transition: all 0.4s;
+
+        &:nth-of-type(1) {
+            top: 0;
+        }
+
+        &:nth-of-type(2) {
+            top: 8px;
+        }
+
+        &:nth-of-type(3) {
+            bottom: 0;
+        }
+    }
+
+    &.is-burger-nav-open {
+      span {
+        background-color: $burger-color-overlay;
+
+        &:nth-of-type(1) {
+            transform: translateY(8px) rotate(-45deg);
+        }
+
+        &:nth-of-type(2) {
+            opacity: 0;
+        }
+
+        &:nth-of-type(3) {
+            transform: translateY(-8px) rotate(45deg);
+        }
+      }
+    }
   }
 }
 

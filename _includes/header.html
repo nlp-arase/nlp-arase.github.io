@@ -11,26 +11,21 @@
   </div>
 </div>
 
-<div id="nav-toggle">
-    <div>
-        <span></span>
-        <span></span>
-        <span></span>
-    </div>
-</div>
-
-<div id="gloval-nav">
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">MEMBER</a></li>
-            <li><a href="#">RESEARCH</a></li>
-            <li><a href="#">PUBLICATIONS</a></li>
-            <li><a href="#">RESOURCE</a></li>
-            <li><a href="#">ENGLISH</a></li>
-        </ul>
-    </nav>
-</div>
+<a class="burger-icon" href="#">
+    <span></span>
+    <span></span>
+    <span></span>
+</a>
+<nav class="burger-nav">
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">MEMBER</a></li>
+    <li><a href="#">RESEARCH</a></li>
+    <li><a href="#">PUBLICATIONS</a></li>
+    <li><a href="#">RESOURCE</a></li>
+    <li><a href="#">ENGLISH</a></li>
+  </ul>
+</nav>
 
 <div class="wrapper">
   <div class="trigger site-navigation">
@@ -53,11 +48,15 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.3/jquery.min.js"></script>
 <script type="text/javascript">
-(function($) {
-    $(function () {
-        $('#nav-toggle').on('click', function() {
-            $('body').toggleClass('open');
-        });
-    });
-})(jQuery);
+$(function () {
+  $(".burger-icon").on("click", function () {
+    if ($(this).hasClass("is-burger-nav-open")) {
+      $(this).removeClass("is-burger-nav-open");
+      $(".burger-nav").removeClass("open");
+    } else {
+      $(this).addClass("is-burger-nav-open");
+      $(".burger-nav").addClass("open");
+    }
+  });
+});
 </script>
