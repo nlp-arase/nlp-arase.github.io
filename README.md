@@ -20,5 +20,7 @@ json data has three features. Following features must be fulled.
  - `message` : message
 
 ## TODO
- - Add the English page
- - (Add the icon or picture in member page?)
+ - to be top page more sensefull
+
+## Reference
+https://github.com/hemangsk/Gravity

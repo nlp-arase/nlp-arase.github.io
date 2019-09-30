@@ -11,8 +11,8 @@ email: nlp.hp.arase@gmail.com
 description: NLP homepage beta
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nlp-arase.github.io" # the base hostname & protocol for your site
-twitter_username: 50_kawa
-github_username:  50kawa
+twitter_username: Yuki_arase
+github_username:  nlp-arase
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 
