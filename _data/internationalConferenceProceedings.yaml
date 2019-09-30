@@ -1,4 +1,9 @@
-- authors: Yuki Arase and Jun’ichi Tsujii
+- authors: Kazuki Ashihara, Tomoyuki Kajiwara, Yuki Arase, Satoru Uchida
+  title: Contextualized context2vec
+  info: In Proceedings of the 5th Workshop on Noisy User-generated Text (W-NUT 2019), 2019. (to appear)
+  lang: en
+
+- authors: Yuki Arase, Jun’ichi Tsujii
   title: Injecting Phrasal Paraphrase Relation into Sentence Representation for Semantic Equivalence Assessment
   info: In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2019). (to appear)
   lang: en
